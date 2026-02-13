@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div align="center">
 
@@ -615,3 +616,6 @@ If you found this project helpful, please consider:
 
 
 >>>>>>> c14742c9a582b43442d37569c87671fad17c1267
+=======
+# Calculator_Flutter
+>>>>>>> 2ce7ced403d96201534a3dac65f803624934c85c
