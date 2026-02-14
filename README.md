@@ -7,17 +7,8 @@
 <h1>🧮 Calculator Flutter</h1>
 
 <<<<<<< HEAD
-[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/Calculator-Flutter)](https://github.com/muhammad-fiaz/Calculator-Flutter/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/Calculator-Flutter)](https://github.com/muhammad-fiaz/Calculator-Flutter/pulls)
-[![GitHub contributors](https://img.shields.io/github/contributors/muhammad-fiaz/Calculator-Flutter)](https://github.com/muhammad-fiaz/Calculator-Flutter/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/Calculator-Flutter)](https://github.com/muhammad-fiaz/Calculator-Flutter/commits/main)
-[![GitHub license](https://img.shields.io/github/license/muhammad-fiaz/Calculator-Flutter)](https://github.com/muhammad-fiaz/Calculator-Flutter/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/muhammad-fiaz/Calculator-Flutter?style=social)](https://github.com/muhammad-fiaz/Calculator-Flutter/stargazers)
 
-[![GitHub maintainer](https://img.shields.io/badge/maintainer-Muhammad%20Fiaz-blue)](https://github.com/muhammad-fiaz)
-[![GitHub followers](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow)](https://github.com/muhammad-fiaz?tab=followers)
-[![GitHub sponsor](https://img.shields.io/badge/sponsor-Muhammad%20Fiaz-blue)](https://github.com/sponsors/muhammad-fiaz)
-[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-brightgreen)](https://play.google.com/store/apps/details?id=dev.fiaz.calculator)
+
 
 =======
 >>>>>>> c14742c9a582b43442d37569c87671fad17c1267
@@ -613,6 +604,7 @@ If you found this project helpful, please consider:
 
 <<<<<<< HEAD
 =======
+
 
 
 >>>>>>> c14742c9a582b43442d37569c87671fad17c1267
